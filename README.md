@@ -1,6 +1,5 @@
 # 1530 Project
 A simple Django + HTML app that surfaces University of Pittsburgh club events.  
-Sprint 3 focuses on scaffolding: mock data, JSON endpoint, and minimal UI.
 
 ## How to Run
 ### Backend (Django)
